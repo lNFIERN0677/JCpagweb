@@ -5,7 +5,7 @@ padding:0;
 
 #contenedor{
 width:1200px;
-height:1100px;
+height:1200px;
 margin:0.5em auto;
 padding:0.5em;
 border:2px solid #000;
@@ -153,4 +153,8 @@ form{
 	font-family:'calibri';
 	font-size:10px;
 	color:#FFF;
+}
+h1{
+	font-family:"Times New Roman", Times, serif;
+	color:blue;
 }
